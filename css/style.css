@@ -1,0 +1,16 @@
+.wrapper {
+	display: flex;
+	flex-direction: column;
+}
+
+input {
+	height: 20px;
+	width: 300px;
+	margin-bottom: 5px;
+}
+
+button {
+	height: 24px;
+	width: 304px;
+	margin-bottom: 5px;
+}
